@@ -1,3 +1,7 @@
+mensagem = "Projeto de estudo"
+
+alert(mensagem);
+
 'use strict';
 
 const switcher = document.querySelector('.btn');
